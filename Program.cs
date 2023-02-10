@@ -23,7 +23,7 @@ namespace EmailExample
    
 
            
-            // Reset da cor do console
+         
             Console.ResetColor();
 
             System.Console.WriteLine("Type the destination email");
